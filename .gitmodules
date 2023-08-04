@@ -1,0 +1,3 @@
+[submodule "kubo_conductivity"]
+	path = kubo_conductivity
+	url = https://github.com/DeathStroke19891/kubo_conductivity
